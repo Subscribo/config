@@ -42,3 +42,11 @@ in bootstrap/app.php for conditional registration
 
 Note: If used with package adding these dependencies and/or registering this service provider for you, respective steps might not be necessary.
 
+2.1 Note
+
+This package uses or extends symfony/config package
+
+Might contain third party code or part(s) of third party code
+(e.g. (parts of) Laravel framework - http://laravel.com
+of parts of Symfony/Config or Symfony documentation - http://symfony.com )
+
