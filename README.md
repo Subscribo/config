@@ -18,7 +18,7 @@ Config package for reading configuration
 1.3 You might need to add (to the same place as in 1.2) also dependencies suggested in this package's composer.json, especially:
 
 ```json
-    "subscribo/environment": "@dev",
+    "subscribo/environment": "^0.1.0",
 ```
 
 1.4 If you are using Laravel (5.0), you might want to add
