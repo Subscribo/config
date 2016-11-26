@@ -12,7 +12,7 @@ Config package for reading configuration
 (note: do not add trailing comma if it is the last item listed)
 
 ```json
-    "subscribo/config": "^0.1.1",
+    "subscribo/config": "^0.1.0",
 ```
 
 1.3 You might need to add (to the same place as in 1.2) also dependencies suggested in this package's composer.json, especially:
